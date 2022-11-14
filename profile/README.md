@@ -1,6 +1,6 @@
 # Aplicativo de Organização - PlanIf
 
-O **PlanIf** tem o objetivo de ser um aplicativo de organização para estudantes. E está sendo desenvolvido para o conglomerado das disciplinas de Projeto de Interface do Usuário e Projeto de Desenvolvimento de Sistemas para Internet.
+O **PlanIf** tem o objetivo de ser um aplicativo de organização para estudantes. E está sendo desenvolvido para o conglomerado das disciplinas de Projeto de Interface do Usuário, Programação Orientada a Serviços e Projeto de Desenvolvimento de Sistemas para Internet.
 
 ### Documentação:
 * [Documento de visão](./docs/doc-de-visao.md)
