@@ -21,3 +21,6 @@ O **PlanIf** tem o objetivo de ser um aplicativo de organização para estudante
 * [Danielle Freitas](https://github.com/danigfreitas)
 * [Leonardo Minora](https://github.com/leonardo-minora)
 * [Sales Filho](https://github.com/salesfilho)
+
+### Como executar:
+* Para rodar o projeto de forma esperada, precisa baixar e executar tanto o [_**PlanIf_frontend**_](https://github.com/PlanIf-Project/PlanIf_frontend) , quanto o [_**PlanIf_server**_](https://github.com/PlanIf-Project/PlanIf_server).
